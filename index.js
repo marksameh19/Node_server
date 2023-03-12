@@ -9,7 +9,7 @@ const port = process.env.PORT || 3001;
 let notes = [
   {
     id: 1,
-    content: "HTML is easy",
+    content: "HTML is easy, no rowa7",
     important: true,
   },
   {
